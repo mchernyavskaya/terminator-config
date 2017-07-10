@@ -1,7 +1,7 @@
 # Terminator Configuration
 Makes the [terminator](http://www.tenshu.net/terminator/) look like Ubuntu gnome terminal.
 
-Copy/merge config into ~/.config/terminator/config
+Copy/merge config into the ~/.config/terminator/config
 
 The command prompt in terminator is not colorised by default, to fix this uncomment in ~/.bashrc:
 
