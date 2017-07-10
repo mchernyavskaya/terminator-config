@@ -9,7 +9,7 @@ The command prompt in terminator is not colorised by default, to fix this uncomm
 force_color_prompt=yes
 ```
 
-This also made the prompt show colors in an SSH session.
+This also makes the prompt show colors in an SSH session.
 
 
 ## Screenshots
